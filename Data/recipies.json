@@ -1,0 +1,49 @@
+[
+    {
+        "recipeName": "Shakshuka",
+        "ingredients": [
+            "1 onion, chopped",
+            "1 red bell pepper, chopped",
+            "3 cloves garlic, minced",
+            "1 teaspoon paprika",
+            "1/2 teaspoon cumin",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 can (28 oz) crushed tomatoes",
+            "4-6 eggs",
+            "1/4 cup chopped fresh parsley or cilantro"
+        ],
+        "cookingMethod": "1. In a large skillet over medium heat, cook the onion and red bell pepper until softened, about 5-7 minutes. \n2. Add the garlic, paprika, cumin, salt, and black pepper. Cook for another minute. \n3. Add the crushed tomatoes and bring to a simmer. Cook until the sauce thickens slightly, about 10-15 minutes. \n4. Make 4-6 wells in the sauce and crack an egg into each well. \n5. Cover the skillet and cook until the egg whites are set but the yolks are still runny, about 5-7 minutes. \n6. Garnish with chopped fresh parsley or cilantro and serve hot with crusty bread or pita.",
+        "rating": 4.7
+    },
+    {
+        "recipeName": "Kunafa",
+        "ingredients": [
+            "1 package (16 oz) kunafa dough",
+            "1 cup unsalted butter, melted",
+            "2 cups ricotta cheese",
+            "1 cup shredded mozzarella cheese",
+            "1/2 cup sugar",
+            "1/2 cup water",
+            "1/2 teaspoon orange blossom water",
+            "1/4 cup chopped pistachios"
+        ],
+        "cookingMethod": "1. Preheat oven to 350°F. \n2. In a large bowl, separate the kunafa dough into small pieces with your fingers. Pour the melted butter over the dough and mix well. \n3. In a separate bowl, mix together the ricotta cheese and shredded mozzarella cheese. \n4. Press half of the kunafa dough mixture into a 9x13 inch baking dish. \n5. Spread the cheese mixture over the kunafa dough. \n6. Cover the cheese mixture with the remaining kunafa dough. \n7. Bake in the preheated oven until golden brown, about 30-35 minutes. \n8. While the kunafa is baking, make the sugar syrup by combining the sugar, water, and orange blossom water in a small saucepan. Bring to a boil and cook until the sugar dissolves and the syrup thickens slightly. \n9. When the kunafa is done, remove from the oven and pour the sugar syrup over the top. \n10. Garnish with chopped pistachios and serve warm.",
+        "rating": 4.8
+    },
+    {
+        "recipeName": "Hummus",
+        "ingredients": [
+            "2 cans chickpeas, drained and rinsed",
+            "1/2 cup tahini",
+            "4 cloves garlic",
+            "1/4 cup olive oil, plus more for drizzling",
+            "1/4 cup lemon juice",
+            "1 teaspoon ground cumin",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper"
+        ],
+        "cookingMethod": "1. In a food processor, blend the chickpeas until smooth. \n2. Add tahini, garlic, olive oil, lemon juice, cumin, salt, and black pepper. Mix well. \n3. If the hummus is too thick, add water or more olive oil, 1 tablespoon at a time, until desired consistency is achieved. \n4. Adjust seasoning to taste. \n5. Transfer to a bowl and drizzle with olive oil. \n6. Serve with pita bread or vegetables.",
+        "rating": 4.6
+    }
+]

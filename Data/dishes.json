@@ -2,37 +2,37 @@
     {
       "id": 1,
       "name": "Mansaf",
-      "image": "https://www.example.com/mansaf.jpg",
+      "image": "https://media.istockphoto.com/id/1324373242/photo/jordan-national-dish-mansaf-made-of-lamb-meat-jameed-yogurt-rice-closeup-in-the-plate.jpg?s=612x612&w=0&k=20&c=0BbjVsOotnMHCE89uhaz9iNKd2n4VBWTBEsrW2s3hJA=",
       "description": "A traditional dish from Jordan made with lamb, rice, and a fermented yogurt sauce called jameed."
     },
     {
       "id": 2,
       "name": "Kabsa",
-      "image": "https://www.example.com/kabsa.jpg",
+      "image": "https://t3.ftcdn.net/jpg/03/38/56/00/360_F_338560078_8W9tO8TBEnK0vDH0Hw9Tiv1WvjLM7D36.jpg",
       "description": "A popular rice dish from Saudi Arabia made with meat, vegetables, and a blend of spices."
     },
     {
       "id": 3,
       "name": "Mandi",
-      "image": "https://www.example.com/mandi.jpg",
+      "image": "https://t4.ftcdn.net/jpg/03/24/50/53/360_F_324505357_SWfRhx7862SwygH4jHJAbXPdgKA3nxm6.jpg",
       "description": "A Yemeni dish made with seasoned meat (usually lamb or chicken) and rice cooked in a tandoor oven."
     },
     {
       "id": 4,
       "name": "Harees",
-      "image": "https://www.example.com/harees.jpg",
+      "image": "https://vismaifood.com/storage/app/uploads/public/55d/d08/075/thumb__700_0_0_0_auto.jpg",
       "description": "A dish made of ground wheat and meat (usually lamb or chicken) that is popular during Ramadan in many Arab countries."
     },
     {
       "id": 5,
       "name": "Shakshuka",
-      "image": "https://www.example.com/shakshuka.jpg",
+      "image": "https://c1.wallpaperflare.com/preview/854/281/249/kagyana-strapatsada-gdarta-shakshuka.jpg",
       "description": "A North African dish that is popular throughout the Middle East, made with eggs poached in a sauce of tomatoes, peppers, and spices."
     },
     {
       "id": 6,
       "name": "Fatteh",
-      "image": "https://www.example.com/fatteh.jpg",
+      "image": "https://images.kitchenstories.io/wagtailOriginalImages/R2569-photo-final-1-16x9.jpg",
       "description": "A layered dish made with toasted bread, chickpeas, yogurt, and a garlic-tahini sauce, often served with meat or vegetables on top."
     }
   ]

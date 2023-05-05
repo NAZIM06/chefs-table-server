@@ -57,7 +57,7 @@
     {
         "id": "CHEF002",
         "chefPicture": "https://www.timeoutdoha.com/cloud/timeoutdoha/2022/07/03/DM-Prl-Image.png",
-        "chefName": "Fatima Ahmed",
+        "chefName": "Fadi Kattan",
         "numberOfRecipes": 10,
         "recipes": [
             {   "id": "c21",
@@ -115,7 +115,7 @@
             }
         ],
         "numberOfLikes": 850,
-        "shortBio": "Fatima Ahmed is a chef from Riyadh, Saudi Arabia. She specializes in traditional Arabian cuisine, and has over 15 years of experience in the culinary arts. Her signature dish is Mandi, which is a slow-cooked lamb and rice dish that is popular in the Arabian Peninsula.",
+        "shortBio": "Fadi Kattan is a chef from Riyadh, Saudi Arabia. She specializes in traditional Arabian cuisine, and has over 15 years of experience in the culinary arts. Her signature dish is Mandi, which is a slow-cooked lamb and rice dish that is popular in the Arabian Peninsula.",
         "yearOfExperience": 15
     },
     {
@@ -180,7 +180,7 @@
     {
         "id": "CHEF004",
         "chefPicture": "https://koreatimes-bucket.s3.ap-northeast-2.amazonaws.com/IMAGE/upload/newsV2/images/10-01(502).jpg",
-        "chefName": "Fatima Al-Saleh",
+        "chefName": "Ahmad Tawil",
         "numberOfRecipes": 10,
         "recipes": [
             {   "id": "c41",
@@ -232,14 +232,14 @@
             }
         ],
         "numberOfLikes": 800,
-        "shortBio": "Fatima Al-Saleh is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
+        "shortBio": "Ahmad Tawil is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
         "yearOfExperience": 15
     
     },
     {
         "id": "CHEF005",
         "chefPicture": "https://www.bbcgoodfoodme.com/assets/var/app/current/features/329/original/Greg.jpg",
-        "chefName": "Fatima Al-Saleh",
+        "chefName": "Gregoire Berger",
         "numberOfRecipes": 10,
         "recipes": [
             {   "id": "c51",
@@ -291,14 +291,14 @@
             }
         ],
         "numberOfLikes": 800,
-        "shortBio": "Fatima Al-Saleh is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
+        "shortBio": "Gregoire Berger is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
         "yearOfExperience": 15
     
     },
     {
         "id": "CHEF006",
         "chefPicture": "https://www.qantas.com/content/travelinsider/en/lifestyle/people/talking-expat-life-with-greg-malouf/_jcr_content/parsysTop/hero.img.full.medium.jpg/1532411919688.jpg",
-        "chefName": "Fatima Al-Saleh",
+        "chefName": "Herald Oberender",
         "numberOfRecipes": 10,
         "recipes": [
             {   "id": "c61",
@@ -350,7 +350,7 @@
             }
         ],
         "numberOfLikes": 800,
-        "shortBio": "Fatima Al-Saleh is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
+        "shortBio": "Herald Oberender is a skilled chef from Dubai, UAE. She has over 15 years of experience in cooking Arabian cuisine and is well-known for her delicious Shakshuka and Kunafa. Her passion for cooking has led her to explore and experiment with new flavors and ingredients.",
         "yearOfExperience": 15
     }
 ]
